@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/Z9aUQyq.png" alt="banner" width="100%" />
+<img src="IMG-20250625-WA0000.jpg" alt="banner" width="100%" />
 
 # 👋 Hi, I'm Rifat Alam  
 ### 💻 Full Stack Web Developer | MERN Stack Enthusiast
